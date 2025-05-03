@@ -84,6 +84,9 @@ The dataset comprises multiple structured tables:
 - Applies real supply chain domain logic to solve customer retention challenges with daily performance tracking  
 
 ---
+🔗 **Live Power BI Dashboard**
+
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ4N2IyZGYtOGY5Ny00YjVmLTk2ZTEtNTI0YTk3Nzk3MDQxIiwidCI6IjQyMWU0NWY4LWQ2ZmItNGZhYi04MGJkLTI1NjFhNWQyOTNiOSJ9)
 
 ## 📁 Repository Contents
 
