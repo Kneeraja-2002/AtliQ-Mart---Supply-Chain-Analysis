@@ -1,4 +1,4 @@
-# 📊 AtliQ Mart - Power BI Supply Chain OTIF Analytics Project
+# 📊 AtliQ Mart - Supply Chain Analytics Project
 
 🚀 Welcome to my Power BI-based analytics project!
 
