@@ -44,7 +44,7 @@ The dataset comprises multiple structured tables:
 - Extracted and loaded CSV data into Power BI  
 - Transformed data like Column splitting, Dividing columns, etc. 
 - **Data Modeling**: Established relationships between fact and dimension tables using keys  
-- **DAX Measures**: Created KPIs for On Time %, In Full %, OTIF %, VOFR %, LFR %, etc.  
+- **DAX Measures**: Created KPIs for On Time %, In Full %, OTIF %, VOFR %, LIFR %, etc.  
 - **Visualizations**:
   - Built dynamic visuals with slicers for city, customer, and product-level drilldowns  
   - Used KPIs,Bookmarks, Selection Pane, Buttons, and Sparklines for advanced interactivity and clean navigation  
