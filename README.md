@@ -36,7 +36,7 @@ The dataset comprises multiple structured tables:
 - Power Query (for Data Transformation) 
 - CSV Files (as source data)  
 - Power BI (for modeling and dashboard development)  
-
+- DAX (for calculations)
 ---
 
 ## 🔧 What I Did
